@@ -13,9 +13,6 @@ def three():
             pass
     return increasecount
 
-def main():
-    print(three())
 
 if __name__ == "__main__":
-    main()
-    
+    print(three())
