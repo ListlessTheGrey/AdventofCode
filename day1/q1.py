@@ -12,9 +12,7 @@ def list():
             pass
     return increasecount
 
-def main():
-    print(list())
 
 if __name__ == "__main__":
-    main()
+    print(list())
     
